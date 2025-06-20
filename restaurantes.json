@@ -1,0 +1,30 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "nome": "Casa Mia",
+      "categoria": "Pizzaria",
+      "ativo": true,
+      "data_criacao": "2025-06-19T18:15:07.749553",
+      "data_atualizacao": "2025-06-19T21:41:45.450606",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "nome": "Oficina da Massa",
+      "categoria": "Pizzaria",
+      "ativo": true,
+      "favorito": false,
+      "avaliacao": 0.0,
+      "num_avaliacoes": 0,
+      "telefone": "",
+      "email": "",
+      "endereco": "",
+      "cnpj": "",
+      "data_criacao": "2025-06-19T20:47:15.291814",
+      "data_atualizacao": "2025-06-19T20:47:15.291825"
+    }
+  ],
+  "version": "1.0",
+  "last_updated": "2025-06-19T21:41:45.450612"
+}
